@@ -1,0 +1,25 @@
+{
+  "name": "Electricity Budget Planner",
+  "short_name": "Power Budget",
+  "description": "Plan daily electricity usage, keep local history, and install the app for quick offline access.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe2",
+  "theme_color": "#123742",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
